@@ -59,4 +59,8 @@ The interactive savings jar responds effectively to the lid being opened and clo
 
 ![project outcome](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/project_outcome.jpg)
 
+[final video](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/video.mp4)
+
+
 Initially, I intended to incorporate additional states into the design. However, the rapid flashing of the LEDs made it challenging for users to recognize and track the various states. Consequently, I streamlined the system to focus on just two core states. Due to limited supplies, such as sensors or weight detection tools, I was unable to fully implement these advanced features. In the future, integrating more precise sensors could enable the jar to differentiate between various interactions, thereby enhancing both its interactivity and security.
+
