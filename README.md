@@ -20,6 +20,9 @@ Closing the Lid: When the lid is closed, the copper tape disconnects, and the LE
 * Digital RGB LED Weatherproof Strip
 * Copper Tape
 * USB-C Cable
+* Alligator Clips
+
+![hardware](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/hardware.jpg)
 
 ### Firmware   
 
@@ -46,7 +49,9 @@ else:
 
 ### Physical Components   
 
-I used a plastic container for the savings jar, with copper tape applied to the rim of the jar and the lid to detect when the lid is opened or closed. This simple, lightweight container can be easily modified for interactive projects
+I used a plastic container for the savings jar, with copper tape applied to the rim of the jar and the lid to detect when the lid is opened or closed. This simple, lightweight container can be easily modified for interactive projects.
+
+![physical component](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/physical_component.jpg)) 
 
 ### Project outcome  
 
