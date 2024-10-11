@@ -2,6 +2,8 @@
 
 My project is an interactive savings jar that utilizes an LED strip and copper tape to visually indicate the jar's open or closed status. The LED strip changes colors based on the lid's position, providing immediate feedback to the user.
 
+![concept sketch](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/sketch.jpg) 
+
 ### State Diagram
 
 Initial State: When the savings jar is not in use, it remains in a low-power state, with the LED strip glowing softly in a light blue color. This indicates to the user that the jar is idle and ready for interaction.
