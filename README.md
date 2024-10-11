@@ -51,7 +51,7 @@ else:
 
 I used a plastic container for the savings jar, with copper tape applied to the rim of the jar and the lid to detect when the lid is opened or closed. This simple, lightweight container can be easily modified for interactive projects.
 
-![physical component](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/physical_component.jpg)) 
+![physical component](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/physical_component.jpg)
 
 ### Project outcome  
 
