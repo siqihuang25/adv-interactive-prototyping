@@ -53,8 +53,10 @@ I used a plastic container for the savings jar, with copper tape applied to the 
 
 ![physical component](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/physical_component.jpg)
 
-### Project outcome  
+### Project Outcome  
 
 The interactive savings jar responds effectively to the lid being opened and closed. When the lid is opened, the LED turns yellow; when closed, it returns to a soft blue, indicating that the jar is secure and in a low-power state.
+
+![project outcome](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/project_outcome.jpg)
 
 Initially, I intended to incorporate additional states into the design. However, the rapid flashing of the LEDs made it challenging for users to recognize and track the various states. Consequently, I streamlined the system to focus on just two core states. Due to limited supplies, such as sensors or weight detection tools, I was unable to fully implement these advanced features. In the future, integrating more precise sensors could enable the jar to differentiate between various interactions, thereby enhancing both its interactivity and security.
