@@ -2,7 +2,7 @@
 
 My project is an LED scarf that integrates motion detection technology using an IMU Pro sensor and a dynamic LED strip. The scarf responds to various movements with interactive light patterns, creating a fusion of wearable technology and artistic expression.
 
-![project_outcome](project 2/ideation.jpg)
+![Ideation](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/project%202/ideation.jpg)
 
 ### State Diagram
 
@@ -14,7 +14,7 @@ Synchronizing mode: moderate, sustained motion along the X-axis activates rhythm
 
 Resting mode: after 5 seconds of inactivity, the LEDs settle into a steady, warm orangish-yellow glow
 
-![state_diagram](project 2/state_diagram.jpg)
+![state_diagram](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/project%202/state_diagram.jpg)
 
 ### Hardware
 
@@ -23,7 +23,7 @@ Resting mode: after 5 seconds of inactivity, the LEDs settle into a steady, warm
 * USB-C Cable
 * M5Stack IMU Pro
 
-![hardware](project 2/hardware.jpg)
+![hardware](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/project%202/hardware.jpg)
 
 ### Firmware   
 
@@ -58,7 +58,7 @@ set_led_color(255, 80, 0)
 
 For the prototype, I chose a white scarf as the base because it enhances the visibility of the LED lights and creates a diffusive effect on the fabric, making the light patterns more vibrant and evenly distributed.
 
-![physical_component](project 2/physical_component.jpg)
+![physical_component](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/project%202/physical_component.jpg)
 
 
 ### Project Outcome  
