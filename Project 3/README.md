@@ -65,6 +65,7 @@ if distance <= 20:
 
 Initially, we used Bluetooth to connect two scarves, but we ultimately transitioned to a cloud-based solution, enabling users to fully customize the color and brightness of their scarves to suit their preferences. This shift not enhanced user experience and also expanded the potential for scalable and personalized interactions. While the core functionality is complete and performing well, the animation feature is something I aim to refine in future iterations. Looking ahead, I’m excited to explore the integration of additional sensors, such as heart rate monitors, to incorporate emotional responses and deepen the theme of "connection" through innovative, interactive features.
 
-![project outcome](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/scarf.jpg)
+![scarf](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/scarf.jpg)
+![project outcome](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/project-outcome.jpg)
 
 ### Final Video
