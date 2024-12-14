@@ -2,6 +2,8 @@
 
 My project is a cloud-enabled proximity-based interactive LED scarf system. The scarves change their visual modes based on the distance between them, with data processed and synchronized through a cloud platform.
 
+![sketches](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/sketches.png)
+
 ### State Diagram
 
 Initial State: When the system starts or neither scarf detects the other
@@ -62,5 +64,7 @@ if distance <= 20:
 ### Project Outcome
 
 Initially, we used Bluetooth to connect two scarves, but we ultimately transitioned to a cloud-based solution, enabling users to fully customize the color and brightness of their scarves to suit their preferences. This shift not enhanced user experience and also expanded the potential for scalable and personalized interactions. While the core functionality is complete and performing well, the animation feature is something I aim to refine in future iterations. Looking ahead, I’m excited to explore the integration of additional sensors, such as heart rate monitors, to incorporate emotional responses and deepen the theme of "connection" through innovative, interactive features.
+
+![project outcome](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/scarf.jpg)
 
 ### Final Video
