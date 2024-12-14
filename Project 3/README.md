@@ -12,6 +12,8 @@ Close Proximity Mode：When the distance between the two scarves is <= 20 cm
 
 Medium Proximity Mode: When the distance between the two scarves is 20-50cm
 
+![state diagram](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/state-diagram.jpg)
+
 
 ## Hardware
 
@@ -19,6 +21,8 @@ Medium Proximity Mode: When the distance between the two scarves is 20-50cm
 * Digital RGB LED Weatherproof Strip
 * USB-C Cable
 * M5Stack ToF Distance
+
+![state diagram](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/hardware_project3.jpg)
 
 ## Firmware
 
@@ -69,3 +73,4 @@ Initially, we used Bluetooth to connect two scarves, but we ultimately transitio
 ![project outcome](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/project-outcome.jpg)
 
 ### Final Video
+![final video](https://github.com/vanessahuang29/adv-interactive-prototyping/blob/main/Project%203/final.mp4)
